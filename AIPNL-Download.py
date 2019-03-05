@@ -8,9 +8,9 @@
 # Note: ENR-6 Charts are not available for download at these urls
 #
 # Publication dates:
-# old:          http://www.ais-netherlands.nl/aim/2018-09-27-AIRAC/pdf/
-# current:      http://www.ais-netherlands.nl/aim/2018-10-25-AIRAC/pdf/
-# next:         http://www.ais-netherlands.nl/aim/2018-11-22-AIRAC/pdf/
+# old:          http://www.ais-netherlands.nl/aim/2018-11-22-AIRAC/pdf/
+# current:         http://www.ais-netherlands.nl/aim/2018-12-20-AIRAC/pdf/
+# next:         http://www.ais-netherlands.nl/aim/2011-01-17-AIRAC/pdf/
 #
 
 
@@ -20,8 +20,8 @@ import os
 import time
 
 
-downloadDir = "D:\\USBdisk\Aviation\eAIP-EHAA\Download"
-urlAIPnl = "http://www.ais-netherlands.nl/aim/2018-10-25-AIRAC/pdf/"
+downloadDir = "D:\\USBdisk\\Aviation\\eAIP-EHAA\\Download"
+urlAIPnl = "http://www.ais-netherlands.nl/aim/2018-12-20-AIRAC/pdf/"
 
 
 AIPNL = {

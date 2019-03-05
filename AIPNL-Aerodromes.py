@@ -4,9 +4,9 @@
 # EH-AD Aerodromes: EH-AD-2.EHXX
 #
 # Publication dates:
-# old:          http://www.ais-netherlands.nl/aim/2018-09-27-AIRAC/pdf/
-# current:      http://www.ais-netherlands.nl/aim/2018-10-25-AIRAC/pdf/
-# next:         http://www.ais-netherlands.nl/aim/2018-11-22-AIRAC/pdf/
+# old:          http://www.ais-netherlands.nl/aim/2018-11-22-AIRAC/pdf/
+# current:         http://www.ais-netherlands.nl/aim/2018-12-20-AIRAC/pdf/
+# next:         http://www.ais-netherlands.nl/aim/2019-01-17-AIRAC/pdf/
 #
 
 
@@ -19,8 +19,8 @@ aipADaerodromes = ["EHAL", "EHAM", "EHBD", "EHBK", "EHDR", "EHEH", "EHGG", "EHHO
                    "EHLE", "EHMZ", "EHOW", "EHRD", "EHSE", "EHST", "EHTE", "EHTL", "EHTW", "EHTX"]
 
 
-downloadDir = "D:\\USBdisk\Aviation\eAIP-EHAA\Download"
-urlAIPnl = "http://www.ais-netherlands.nl/aim/2018-10-25-AIRAC/pdf/"
+downloadDir = "D:\\USBdisk\\Aviation\\eAIP-EHAA\\Download"
+urlAIPnl = "http://www.ais-netherlands.nl/aim/2018-12-20-AIRAC/pdf/"
 
 
 # change to download dir
